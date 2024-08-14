@@ -4,8 +4,7 @@
 This work is heavily based off of https://github.com/TasfiaIslam/Draggable-todo
 
 ## Screenshots
-/Users/mactichner/Desktop/react_todo/todo-list/Draggable-todo/Screen Recording 2024-08-14 at 3.32.33 PM.mp4
-
+Screen Recording 2024-08-14 at 3.32.33 PM.mp4
 
 ## Assignment
 
