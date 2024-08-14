@@ -3,6 +3,8 @@
 ## Disclaimer
 This work is heavily based off of https://github.com/TasfiaIslam/Draggable-todo
 
+## Screenshots
+
 ## Assignment
 
 JS/React/CSS
