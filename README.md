@@ -3,10 +3,6 @@
 ## Disclaimer
 This work is heavily based off of https://github.com/TasfiaIslam/Draggable-todo
 
-## Screenshots
-https://github.com/user-attachments/assets/d854052f-87fd-4617-8c99-8d77afabc967
-
-
 ## Assignment
 
 JS/React/CSS
@@ -25,6 +21,7 @@ make whatever UI and UX decisions you want to make it usable. Don't worry, we
 aren't looking for a groundbreaking
 
 ## Screenshots
+https://github.com/user-attachments/assets/d854052f-87fd-4617-8c99-8d77afabc967
 
 
 ### Prerequisites
