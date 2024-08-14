@@ -4,7 +4,7 @@
 This work is heavily based off of https://github.com/TasfiaIslam/Draggable-todo
 
 ## Screenshots
-Screen Recording 2024-08-14 at 3.32.33 PM.mp4
+https://github.com/mst209/Draggable-todo/blob/main/Screen%20Recording%202024-08-14%20at%203.32.33%E2%80%AFPM.mp4
 
 ## Assignment
 
